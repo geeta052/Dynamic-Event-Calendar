@@ -16,12 +16,6 @@ A dynamic calendar application built using React. This app allows users to view 
   - Handles month transitions (e.g., from January to February).
   - Prevents overlapping events by validating time slots.
 
-## Technologies Used
-
-- **React.js** for building the user interface.
-- **date-fns** for handling date manipulations and formatting.
-- **Tailwind CSS** for styling the application.
-
 ## Installation
 
 To run the app locally:
