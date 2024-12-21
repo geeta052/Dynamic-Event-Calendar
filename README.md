@@ -1,7 +1,5 @@
 # Dynamic Event Calendar App
 
-A dynamic calendar application built using React. This app allows users to view their calendar in month, week, and day formats, add/edit/delete events, and manage event details such as name, time, description, and type. The events are saved in the browser's localStorage for persistence.
-
 ## Features
 
 - **Calendar View**: Displays a grid for the current month with aligned days. Navigate between months using "Previous" and "Next" buttons.
