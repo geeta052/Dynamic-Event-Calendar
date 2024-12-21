@@ -35,7 +35,7 @@ To run the app locally:
 
 ## Deployment
 
-- The app is deployed at: [Deployment Link](#)
+- The app is deployed at: [Deployment Link](https://dynamic-event-calendar-zeta.vercel.app/)
 - GitHub Repository: [GitHub Link](https://github.com/geeta052/Dynamic-Event-Calendar)
 
 ## Code Highlights
